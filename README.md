@@ -8,7 +8,7 @@ Follow these steps to set up your local environment and run the notebook:
 
 ### 1. Clone the Repository
 ```bash
-git clone <paste-your-github-repo-url-here>
+git clone <https://github.com/lindensourcelinc/GoodReads_BestBook_Analysis.git>
 cd keystone
 ```
 
